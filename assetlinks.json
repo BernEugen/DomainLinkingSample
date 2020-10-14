@@ -1,8 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.eugen.deeplinkingandroidd",
-    "sha256_cert_fingerprints": ["5D:53:6A:28:F3:C4:63:ED:32:DF:C4:C1:40:72:3B:6E:FE:28:73:F2:66:A4:7B:B0:8E:4E:F2:47:8C:35:29:20"]
-  }
-}]
