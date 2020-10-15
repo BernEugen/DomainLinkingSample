@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "no.threedimensionallearning.threedl",
+    "sha256_cert_fingerprints": ["71:FE:9C:B3:DA:A8:1F:DB:2F:C5:C3:F0:47:92:71:F1:55:1D:D3:16:D6:C5:DB:DF:AF:BF:28:4A:1D:11:7A:B0"]
+  }
+}]
